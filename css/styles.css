@@ -34,6 +34,14 @@
   line-height: 2;
 }
 
+.blog {
+  margin-bottom: 50px;
+}
+
+.twitter-tweet {
+  margin: auto;
+}
+
 .contact-para {
   width: 40%;
   margin: 40px auto 60px;
